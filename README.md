@@ -30,9 +30,9 @@
 <td width="52%">
 
 ### 🧠 About Me
-I’m **Mnqobeey** — an **AI Engineer** building interactive AI demos, **Text-to-3D**, simulation logic, and clean deployments.  
+I’m **Thandokuhle** — an **AI Engineer** building interactive AI demos, **Text-to-3D**, simulation logic, and clean deployments.  
 I care about **clarity**, **engineering discipline**, and shipping prototypes that can grow into products.
-
+<br/>
 - 🧊 Building: **Prompt-to-3D** + **AI Simulation**
 - 🧪 Strong in: **QA Automation** (Selenium patterns, waits, assertions)
 - 📊 Data: **Power BI** (PL-300 experience)

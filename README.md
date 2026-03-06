@@ -105,8 +105,16 @@ SQL • Python • Data Analysis
 - ⚡ Developed a **deployable portfolio website**
 - 🧠 Applied structured engineering practices to every project
 
----
+## 🛠️ Technical Arsenal (Icons) 
+### Core
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&perline=12" /> </p> 
+### Web / 3D / UI <p align="left"> <img src="https://skillicons.dev/icons?i=vite,threejs,react,nodejs&perline=12" /> </p> 
 
-# 🛠️ Technical Arsenal
+### Testing / Quality 
+<p align="left"> <img src="https://skillicons.dev/icons?i=selenium&perline=12" /> </p> 
 
-### Programming
+### Data / Cloud / Tools 
+<p align="left"> <img src="https://skillicons.dev/icons?i=azure,mysql,git,github,vercel&perline=12" /> </p> 
+
+--- ## 📈 Stats & Activity 
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mnqobeey&show_icons=true&hide_title=true&rank_icon=github" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnqobeey" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnqobeey" /> </p>

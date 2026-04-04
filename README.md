@@ -1,177 +1,166 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:132f4f,100:58E6D9&height=160&section=header" alt="header" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1b2a&height=80&text=THANDOKUHLE%20MNTAMBO&fontSize=36&fontColor=58E6D9&fontAlignY=50&animation=fadeIn" />
+# Thandokuhle Mntambo
 
-**Data Analyst &nbsp;·&nbsp; QA Automation Engineer &nbsp;·&nbsp; Intelligent Systems Builder**
+### Data Analyst · QA Automation Engineer · Intelligent Systems Builder
 
-*Building systems people can understand and trust.*
+Designing reporting, automation, and quality systems that are clear, reliable, and trusted.
 
-<br/>
-
-[Portfolio](https://mnqobeey.netlify.app/) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;&nbsp;·&nbsp;&nbsp; [Email](mailto:YOUR_EMAIL)
-
-<br/>
+[Portfolio](https://mnqobeey.netlify.app/) · [Email](mailto:mnqobimntambo@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
 ---
 
-<br/>
-
 ## About
 
-I'm a software engineer based in Johannesburg, working across data analytics, QA automation, and intelligent systems.
+I'm a software engineer based in **Johannesburg, South Africa**, working at the intersection of **data analytics**, **QA automation**, and **intelligent systems**.
 
-🔹 &nbsp; I build **SQL + Power BI reporting** that helps teams make faster business decisions
-🔹 &nbsp; I design **test automation frameworks** for long-term reliability and team trust
-🔹 &nbsp; I create **structured systems** — dashboards, workflows, data pipelines — where clarity is the standard
+My work is built around a simple idea: systems should not only function well, they should be easy to understand and easy to trust.
 
-> *"If they can't understand it, they won't trust it."*
+I focus on building:
+- reporting that turns raw data into decision-ready insight
+- automation that reduces friction and improves consistency
+- workflow and quality systems that remain dependable under real scrutiny
 
-<br/>
+### What I do best
+- Build **SQL** and **Power BI** reporting that helps teams make faster, better decisions
+- Design and test workflows using both **manual** and **automated** quality practices
+- Create structured solutions that improve clarity, reduce risk, and scale with confidence
 
----
-
-<br/>
-
-## Flagship Projects
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NexusEd — Student Feedback System
-
-A full-cycle analytics project: from stakeholder requirements through database architecture to executive-ready dashboards that visualize feedback trends across departments.
-
-`ASP.NET` &nbsp; `SQL` &nbsp; `Power BI`
-
-<br/>
-
-[View Project →](https://github.com/Mnqobeey)
-
-</td>
-<td width="50%" valign="top">
-
-### Takealot — Web Automation Suite
-
-End-to-end UI test automation covering search, browse, and cart journeys. Built with stable waits and reusable patterns that reduced flaky runs and improved debugging through structured logs and screenshots.
-
-`Selenium WebDriver` &nbsp; `Java` &nbsp; `IntelliJ IDEA`
-
-<br/>
-
-[View Project →](https://github.com/Mnqobeey/Automation)
-
-</td>
-</tr>
-</table>
-
-<br/>
+> *If people cannot understand a system, they will struggle to trust it.*
 
 ---
 
-<br/>
+## Selected Work
 
-## Skills
+### Takealot Web Automation
+**End-to-end UI test automation**
 
-| | |
-|:---|:---|
-| **Core** | SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python &nbsp;·&nbsp; Selenium &nbsp;·&nbsp; DAX |
-| **Working** | Java &nbsp;·&nbsp; Jira &nbsp;·&nbsp; QMetry &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Data Modelling |
-| **Familiar** | ASP.NET &nbsp;·&nbsp; Azure &nbsp;·&nbsp; C# &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; ETL &nbsp;·&nbsp; Data Warehousing |
+Built automated coverage for core user journeys including search, browse, and cart flows. Focused on reusable patterns, better test stability, and clearer debugging through logs and screenshots.
 
-<br/>
+**Stack:** Selenium WebDriver, Java, IntelliJ IDEA  
+[View Project](https://github.com/Mnqobeey/Automation)
 
 ---
 
-<br/>
+### Data & Analytics Projects
+**Structured analytics from raw data to decisions**
 
-## Current Direction
+Worked across SQL, Python, Power BI, and Excel to clean data, shape reporting logic, and produce outputs that are useful, readable, and actionable.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Business Intelligence**
-
-Advanced Power BI, DAX, and data storytelling that drives real decisions.
-
-</td>
-<td width="33%" valign="top">
-
-**QA Engineering**
-
-Framework architecture, test stability, and meaningful coverage expansion.
-
-</td>
-<td width="33%" valign="top">
-
-**Intelligent Automation**
-
-HR and CV workflow systems, recruitment automation, usable technical tooling.
-
-</td>
-</tr>
-</table>
-
-<br/>
+**Stack:** SQL, Python, Power BI, Excel  
+[View Projects](https://github.com/Mnqobeey)
 
 ---
 
-<br/>
+### NexusEd
+**Student feedback system**
+
+Took the project from requirements to dashboard-ready insight by shaping business needs, thinking through structure, and designing reporting that made feedback trends easier to understand.
+
+**Stack:** ASP.NET, SQL, Dashboards  
+[View Project](https://github.com/Mnqobeey)
+
+---
+
+### Portfolio Website
+**Personal brand and showcase**
+
+Designed and built a clean digital presence to present projects, certifications, and technical focus areas in one place with a clear and intentional structure.
+
+**Stack:** HTML5, CSS3, JavaScript  
+[View Live](https://mnqobeey.netlify.app/)
+
+---
+
+## Core Capabilities
+
+### Data & Analytics
+- SQL
+- Power BI
+- Excel
+- DAX
+- Data Modelling
+- Reporting Design
+- Data Cleaning
+- Dashboard Development
+
+### Automation & QA
+- Selenium WebDriver
+- UFT One
+- Jira
+- QMetry
+- JUnit
+- TestNG
+- Workflow Validation
+- Test Coverage Design
+
+### Engineering
+- Python
+- Java
+- C#
+- JavaScript
+- ASP.NET
+- HTML5
+- CSS3
+
+### Tools & Platforms
+- Git
+- GitHub
+- Azure
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## Current Focus
+
+I'm currently growing deeper in the following areas:
+
+- **Advanced Power BI and DAX** for clearer, more effective business reporting
+- **QA framework design** with stronger structure, reuse, and test coverage
+- **Intelligent workflow automation** for HR and recruitment systems
+- **Usable technical design** that prioritizes clarity, trust, and long-term maintainability
+
+---
 
 ## Certifications
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Azure Fundamentals**
-Microsoft · Cloud computing and services foundations
-
-[View →](CERT_LINK_HERE)
-
-</td>
-<td width="33%" valign="top">
-
-**Power BI Data Analytics**
-Microsoft · Business intelligence and reporting
-
-[View →](CERT_LINK_HERE)
-
-</td>
-<td width="33%" valign="top">
-
-**QA Fundamentals**
-Software Testing · Test strategy and quality processes
-
-[View →](CERT_LINK_HERE)
-
-</td>
-</tr>
-</table>
-
-<br/>
+- **Microsoft Azure Fundamentals** — [View Certificate](CERT_LINK_AZURE)
+- **Power BI Data Analytics** — [View Certificate](CERT_LINK_POWER_BI)
+- **Software Testing / QA Fundamentals** — [View Certificate](CERT_LINK_QA)
 
 ---
 
-<br/>
+## Working Style
+
+I care about output that is:
+- clear enough to be trusted
+- structured enough to scale
+- practical enough to be used
+- clean enough to hold up under scrutiny
+
+I’m especially interested in work where **analytics**, **automation**, and **system thinking** come together to solve real operational problems.
+
+---
+
+## Contact
+
+I’m open to collaboration, project work, and opportunities where thoughtful technical execution matters.
+
+- **Portfolio:** [mnqobeey.netlify.app](https://mnqobeey.netlify.app/)
+- **Email:** [mnqobimntambo@gmail.com](mailto:mnqobimntambo@gmail.com)
+- **LinkedIn:** [Connect here](https://linkedin.com/in/YOUR_LINKEDIN)
+
+---
 
 <div align="center">
 
-*Clarity. Care. Craft.*
+**"The best systems are not just functional — they are understood."**
 
-<br/>
-
-[Portfolio](https://mnqobeey.netlify.app/) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;&nbsp;·&nbsp;&nbsp; [Email](mailto:YOUR_EMAIL)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1b2a&height=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58E6D9,50:132f4f,100:0a0e17&height=120&section=footer" alt="footer" />
 
 </div>

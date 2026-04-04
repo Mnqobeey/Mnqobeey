@@ -33,7 +33,6 @@
 ---
 
 <br/>
-
 <h2 align="center">⚡ Standard & Philosophy</h2>
 
 <p align="center">

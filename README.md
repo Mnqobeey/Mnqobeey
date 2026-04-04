@@ -2,22 +2,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:1a1a1a&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=58&descColor=888888&animation=fadeIn" />
 
-<br/><br/>
+<br/>
+
+**Software engineer focused on automation, analytics, and quality systems.**
+
+<br/>
 
 <a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=D4AF37" />
 </a>
 &nbsp;
 <a href="mailto:mnqobimntambo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37" />
 </a>
 &nbsp;
 <a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4AF37" />
 </a>
 
 </div>
@@ -32,7 +36,7 @@
 
 Software engineer focused on **automation**, **analytics**, and **quality systems**.
 
-I build solutions that are clear, dependable, and easy to trust.
+I build solutions that are **clear, dependable, and easy to trust**.
 
 > *If they can't understand it, they won't trust it.*
 
@@ -48,140 +52,140 @@ I build solutions that are clear, dependable, and easy to trust.
 
 <div align="center">
 
-<h4>Languages</h4>
+### Languages
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/python/D4AF37" width="48" height="48" alt="Python" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
       <br><sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openjdk/D4AF37" width="48" height="48" alt="Java" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
       <br><sub><b>Java</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/javascript/D4AF37" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
       <br><sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/postgresql/D4AF37" width="48" height="48" alt="SQL" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="SQL" />
       <br><sub><b>SQL</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/csharp/D4AF37" width="48" height="48" alt="C#" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
       <br><sub><b>C#</b></sub>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<h4>Testing & QA</h4>
+### Testing & QA
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/selenium/D4AF37" width="48" height="48" alt="Selenium" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42" height="42" alt="Selenium" />
       <br><sub><b>Selenium</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/junit5/D4AF37" width="48" height="48" alt="JUnit" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="42" height="42" alt="JUnit" />
       <br><sub><b>JUnit</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/testinglibrary/D4AF37" width="48" height="48" alt="TestNG" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/testinglibrary/D4AF37" width="42" height="42" alt="TestNG" />
       <br><sub><b>TestNG</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jira/D4AF37" width="48" height="48" alt="Jira" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" height="42" alt="Jira" />
       <br><sub><b>Jira</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/qase/D4AF37" width="48" height="48" alt="QMetry" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/qase/D4AF37" width="42" height="42" alt="QMetry" />
       <br><sub><b>QMetry</b></sub>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<h4>Data & Analytics</h4>
+### Data & Analytics
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="48" height="48" alt="Power BI" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="42" height="42" alt="Power BI" />
       <br><sub><b>Power BI</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/D4AF37" width="48" height="48" alt="SQL Server" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server" />
       <br><sub><b>SQL Server</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/D4AF37" width="48" height="48" alt="Excel" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoftexcel/D4AF37" width="42" height="42" alt="Excel" />
       <br><sub><b>Excel</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="48" height="48" alt="DAX" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="42" height="42" alt="DAX" />
       <br><sub><b>DAX</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoft/D4AF37" width="48" height="48" alt="Power Query" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/microsoft/D4AF37" width="42" height="42" alt="Power Query" />
       <br><sub><b>Power Query</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="48" height="48" alt="Data Modelling" />
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="42" height="42" alt="Data Modelling" />
       <br><sub><b>Data Modelling</b></sub>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<h4>Web & Development</h4>
+### Web & Development
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/html5/D4AF37" width="48" height="48" alt="HTML5" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
       <br><sub><b>HTML5</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/css3/D4AF37" width="48" height="48" alt="CSS3" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
       <br><sub><b>CSS3</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/dotnet/D4AF37" width="48" height="48" alt="ASP.NET" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt="ASP.NET" />
       <br><sub><b>ASP.NET</b></sub>
     </td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-<h4>Tools & Platforms</h4>
+### Tools & Platforms
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/git/D4AF37" width="48" height="48" alt="Git" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
       <br><sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/D4AF37" width="48" height="48" alt="GitHub" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
       <br><sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/microsoftazure/D4AF37" width="48" height="48" alt="Azure" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" />
       <br><sub><b>Azure</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/visualstudiocode/D4AF37" width="48" height="48" alt="VS Code" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
       <br><sub><b>VS Code</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/intellijidea/D4AF37" width="48" height="48" alt="IntelliJ IDEA" />
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" />
       <br><sub><b>IntelliJ</b></sub>
     </td>
   </tr>
@@ -205,9 +209,15 @@ I build solutions that are clear, dependable, and easy to trust.
 
 ### 🧪 &nbsp; QA Automation
 
-Stable UI automation and reusable test architecture.
+**Resilient UI test architecture**
+
+Reusable automation built for stable execution, clearer debugging, and maintainable growth.
 
 <br/>
+
+<sub><b>Stack:</b> Selenium · Java · JUnit</sub>
+
+<br/><br/>
 
 <a href="https://github.com/Mnqobeey/Automation">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
@@ -218,9 +228,15 @@ Stable UI automation and reusable test architecture.
 
 ### 📊 &nbsp; Data & Analytics
 
-SQL, Python, Power BI — reporting-focused work.
+**Reporting systems and decision-ready output**
+
+Analytics work across SQL, Python, and Power BI with a focus on clarity, structure, and reporting value.
 
 <br/>
+
+<sub><b>Stack:</b> SQL · Python · Power BI</sub>
+
+<br/><br/>
 
 <a href="https://github.com/Mnqobeey">
   <img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
@@ -228,14 +244,21 @@ SQL, Python, Power BI — reporting-focused work.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp; Portfolio Website
 
-Personal brand, showcase, and frontend execution.
+**Minimal brand and showcase layer**
+
+A clean frontend presence designed to present work, credentials, and contact with more structure and less noise.
 
 <br/>
+
+<sub><b>Stack:</b> HTML5 · CSS3 · JavaScript</sub>
+
+<br/><br/>
 
 <a href="https://mnqobeey.netlify.app/">
   <img src="https://img.shields.io/badge/VIEW%20LIVE-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
@@ -246,9 +269,15 @@ Personal brand, showcase, and frontend execution.
 
 ### 🎓 &nbsp; NexusEd
 
-Student feedback system and dashboard-driven insight.
+**Feedback analytics from model to dashboard**
+
+A student feedback system shaped from data structure through to dashboard-ready insight.
 
 <br/>
+
+<sub><b>Stack:</b> ASP.NET · SQL · Power BI</sub>
+
+<br/><br/>
 
 <a href="https://github.com/Mnqobeey">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
@@ -266,43 +295,31 @@ Student feedback system and dashboard-driven insight.
 
 ## ⬛ &nbsp; CURRENT DIRECTION
 
-```yaml
-focus:
-  - intelligent automation
-  - qa engineering
-  - business intelligence
-  - clarity-first systems
+<table>
+<tr>
+<td width="33%" valign="top">
 
-principle: "Precision over noise. Trust through execution."
-```
+**Business Intelligence**
 
-<br/>
+Power BI, DAX, and cleaner data storytelling for more usable reporting.
 
----
+</td>
+<td width="33%" valign="top">
 
-<br/>
+**QA Engineering**
 
-## ⬛ &nbsp; CONNECT
+Framework structure, test stability, and stronger coverage depth.
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
 
-<a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="mailto:mnqobimntambo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
-</a>
+**Intelligent Automation**
 
-</div>
+Workflow systems and recruitment automation built for clarity and scale.
+
+</td>
+</tr>
+</table>
 
 <br/>
 

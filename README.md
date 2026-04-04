@@ -1,120 +1,135 @@
-<!-- ===================== HERO ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=Mnqobeey&fontAlignY=38&desc=Software%20Engineer%20%7C%20QA%20Automation%20%7C%20Data%20Analytics&descAlignY=60&animation=twinkling" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&center=true&vCenter=true&width=920&lines=I+build+clean%2C+deployable+software+projects.;Stable+automation%3A+clean+assertions%2C+smart+waits%2C+maintainable+frameworks.;Turning+data+into+clear+insights.;Fast+shipping.+Clear+UI.+Real+results." />
-</p>
+# Thandokuhle Mntambo
 
----
+### QA Automation • Data Analytics • Intelligent Systems
 
-## 🧠 About Me
+Building clean, reliable, and high-value digital solutions with precision.
 
-I’m **Thandokuhle Mntambo**, a **Software Engineer** focused on **QA Automation, Data Analytics, and reliable software delivery**.
+<br>
 
-I enjoy building **clean, well-structured systems**, writing maintainable automation frameworks, and turning data into insights.
+[![GitHub followers](https://img.shields.io/github/followers/Mnqobeey?style=for-the-badge)](https://github.com/Mnqobeey)
+[![GitHub Stars](https://img.shields.io/github/stars/Mnqobeey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/Mnqobeey)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mnqobeey&style=for-the-badge)](https://github.com/Mnqobeey)
 
-- 🧪 Strong in **QA Automation** (Selenium patterns, waits, assertions)
-- 📊 Data analytics with **Power BI**
-- ☁️ Knowledge of **Azure Data Fundamentals**
-- 🧠 Strong focus on **engineering discipline and clean code**
-- 📍 Based in **South Africa**
+</div>
 
 ---
 
-## 🎯 Philosophy
+## About Me
 
-> **“If people can’t understand it, they won’t trust it.”**
+I’m **Thandokuhle Mntambo**, a developer focused on **QA Automation**, **Data Analytics**, and **structured intelligent systems**.
 
-### ⚡ What I deliver
+My approach is centered on building solutions that are:
 
-- Clean UI + structured code
-- Reliable automation frameworks
-- Data-driven insights
-- Projects that are **clear, documented, and deployable**
+- reliable  
+- maintainable  
+- well-structured  
+- business-focused  
+- designed with clarity and precision  
 
----
-
-# 🧩 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-<h3>🧪 Selenium Automation Framework</h3>
-
-Maintainable automation framework with smart waits, stable selectors, and clean assertions.
-
-<b>Stack</b>  
-Java • Selenium • JUnit/TestNG
-
-<a href="https://github.com/Mnqobeey">Repository</a>
-
-</td>
-
-<td width="50%">
-<h3>📊 Power BI Analytics Dashboards</h3>
-
-Data modeling and dashboards designed to turn raw data into insights.
-
-<b>Stack</b>  
-Power BI • DAX • Data Modeling
-
-<a href="https://github.com/Mnqobeey">Repository</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3>🌐 Portfolio Website</h3>
-
-A modern developer portfolio showcasing projects, certifications, and skills.
-
-<b>Stack</b>  
-HTML • CSS • JavaScript
-
-<a href="YOUR_PORTFOLIO_LINK">Live Site</a>
-
-</td>
-
-<td width="50%">
-<h3>📂 Data Projects</h3>
-
-Projects exploring SQL, analytics, and structured datasets.
-
-<b>Stack</b>  
-SQL • Python • Data Analysis
-
-<a href="https://github.com/Mnqobeey">Repository</a>
-
-</td>
-
-</tr>
-</table>
+I enjoy creating systems that do more than work — they feel refined, intentional, and trustworthy.
 
 ---
 
-# 🔑 Impact Highlights
+## Focus Areas
 
-- ✅ Built maintainable **Selenium automation frameworks**
-- 📊 Created **Power BI dashboards** with data modeling and DAX
-- ⚡ Developed a **deployable portfolio website**
-- 🧠 Applied structured engineering practices to every project
+### Quality Engineering
+Designing dependable testing approaches with a strong emphasis on stability, structure, and software quality.
 
-## 🛠️ Technical Arsenal (Icons) 
-### Core
-<p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&perline=12" /> </p> 
-### Web / 3D / UI <p align="left"> <img src="https://skillicons.dev/icons?i=vite,threejs,react,nodejs&perline=12" /> </p> 
+### Automation
+Building logic-driven solutions that reduce manual effort and improve consistency across workflows.
 
-### Testing / Quality 
-<p align="left"> <img src="https://skillicons.dev/icons?i=selenium&perline=12" /> </p> 
+### Data Analytics
+Transforming raw data into useful insight through dashboards, modeling, and analytical thinking.
 
-### Data / Cloud / Tools 
-<p align="left"> <img src="https://skillicons.dev/icons?i=azure,mysql,git,github,vercel&perline=12" /> </p> 
+### Intelligent Systems
+Exploring practical AI-assisted solutions for document workflows, automation, and business process improvement.
 
---- ## 📈 Stats & Activity 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mnqobeey&show_icons=true&hide_title=true&rank_icon=github" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mnqobeey" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mnqobeey" /> </p>
+---
+
+## Current Direction
+
+- Building intelligent HR and CV automation systems  
+- Growing in QA automation and engineering discipline  
+- Expanding portfolio work in Power BI and business intelligence  
+- Creating premium, practical, and scalable digital solutions  
+
+---
+
+## Selected Projects
+
+### QA Automation Framework
+Maintainable automation architecture built with clean structure, stable selectors, waits, and assertions.
+
+**Stack:** `Java` `Selenium` `JUnit / TestNG`
+
+### Power BI Analytics Dashboards
+Dashboards and reporting solutions focused on turning raw information into clear, decision-ready insight.
+
+**Stack:** `Power BI` `DAX` `Power Query` `Data Modeling`
+
+### Portfolio Website
+A modern web portfolio designed to present projects, certifications, and technical identity with clarity.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+### Data Projects
+Structured analytics work exploring SQL, Python, dashboards, and business-oriented data problems.
+
+**Stack:** `SQL` `Python` `Data Analysis`
+
+---
+
+## Technical Arsenal
+
+**Languages**  
+`Python` `SQL` `JavaScript` `Java`
+
+**Testing & Quality**  
+`Selenium` `Automation Testing` `Functional Testing` `Regression Testing` `Assertions` `Test Design`
+
+**Data & BI**  
+`Power BI` `DAX` `Power Query` `Excel` `Data Modeling`
+
+**Tools & Platforms**  
+`Git` `GitHub` `Azure Fundamentals` `Structured JSON Workflows`
+
+---
+
+## Philosophy
+
+> If people cannot understand a system, they will not trust it.
+
+I believe strong engineering should feel:
+- clear  
+- elegant  
+- disciplined  
+- dependable  
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Mnqobeey&show_icons=true&hide_border=true&rank_icon=github)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mnqobeey&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnqobeey&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## Connect
+
+- **Location:** South Africa  
+- **GitHub:** [github.com/Mnqobeey](https://github.com/Mnqobeey)
+
+---
+
+<div align="center">
+
+**Precision. Structure. Quality.**
+
+</div>

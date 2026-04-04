@@ -8,24 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58E6D9&center=true&vCenter=true&width=550&lines=Data+insights.+Reliable+systems.;Building+with+clarity+and+care." alt="Typing SVG" />
 </p>
 
-<br/>
-
-<a href="#-about">
-<img src="https://img.shields.io/badge/About-0d1b2a?style=for-the-badge&logoColor=58E6D9&labelColor=0d1b2a" alt="About" />
-</a>&nbsp;
-<a href="#-skills">
-<img src="https://img.shields.io/badge/Skills-0d1b2a?style=for-the-badge&logoColor=58E6D9&labelColor=0d1b2a" alt="Skills" />
-</a>&nbsp;
-<a href="#-projects">
-<img src="https://img.shields.io/badge/Projects-0d1b2a?style=for-the-badge&logoColor=58E6D9&labelColor=0d1b2a" alt="Projects" />
-</a>&nbsp;
-<a href="#-certifications">
-<img src="https://img.shields.io/badge/Certs-0d1b2a?style=for-the-badge&logoColor=58E6D9&labelColor=0d1b2a" alt="Certs" />
-</a>&nbsp;
-<a href="#-connect">
-<img src="https://img.shields.io/badge/Contact-0d1b2a?style=for-the-badge&logoColor=58E6D9&labelColor=0d1b2a" alt="Contact" />
-</a>
-
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mnqobeey&style=for-the-badge&color=58E6D9&labelColor=0d1b2a&label=PROFILE+VIEWS)](https://github.com/Mnqobeey)

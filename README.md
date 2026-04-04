@@ -1,33 +1,28 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=56&descColor=999999&animation=fadeIn" />
-
-
-<br/>
-
-**Software engineer focused on automation, analytics, and quality systems.**
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+trust.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
+</p>
 
 <br/>
 
-<a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="mailto:mnqobimntambo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4AF37" />
-</a>
+<p>
+  <a href="https://mnqobeey.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+  </a>
+  &nbsp;
+  <a href="mailto:mnqobimntambo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mnqobeey">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+  </a>
+</p>
 
 </div>
-
-<br/>
 
 ---
 

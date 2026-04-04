@@ -1,135 +1,146 @@
 <div align="center">
 
-# Thandokuhle Mntambo
+# THANDOKUHLE MNTAMBO
 
-### QA Automation • Data Analytics • Intelligent Systems
-
-Building clean, reliable, and high-value digital solutions with precision.
+### `QA AUTOMATION` • `DATA ANALYTICS` • `INTELLIGENT SYSTEMS`
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Mnqobeey?style=for-the-badge)](https://github.com/Mnqobeey)
-[![GitHub Stars](https://img.shields.io/github/stars/Mnqobeey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/Mnqobeey)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mnqobeey&style=for-the-badge)](https://github.com/Mnqobeey)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Precision.+Structure.+Quality.;Building+systems+people+can+trust.;Luxury+in+execution.+Power+in+simplicity." alt="Typing SVG" />
+</p>
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mnqobeey&style=for-the-badge&color=gold)](https://github.com/Mnqobeey)
+[![Followers](https://img.shields.io/github/followers/Mnqobeey?style=for-the-badge&color=black&labelColor=111111)](https://github.com/Mnqobeey)
+[![Stars](https://img.shields.io/github/stars/Mnqobeey?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=gold&labelColor=111111)](https://github.com/Mnqobeey)
 
 </div>
 
 ---
 
-## About Me
+## 𓆩 About 𓆪
 
-I’m **Thandokuhle Mntambo**, a developer focused on **QA Automation**, **Data Analytics**, and **structured intelligent systems**.
+I am **Thandokuhle Mntambo**, a builder of refined digital solutions focused on:
 
-My approach is centered on building solutions that are:
+- **QA Automation**
+- **Data Analytics**
+- **Intelligent Business Systems**
 
-- reliable  
-- maintainable  
-- well-structured  
-- business-focused  
-- designed with clarity and precision  
+My work is driven by one standard:  
+**systems should not only function — they should inspire confidence.**
 
-I enjoy creating systems that do more than work — they feel refined, intentional, and trustworthy.
+I value precision, structure, maintainability, and elegant execution.  
+Whether I am designing automation, analyzing data, or shaping intelligent workflows, I aim to build solutions that feel **deliberate, polished, and dependable**.
 
 ---
 
-## Focus Areas
+## 𓆩 Signature 𓆪
+
+> **If people cannot understand a system, they will not trust it.**
+
+---
+
+## 𓆩 What I Build 𓆪
 
 ### Quality Engineering
-Designing dependable testing approaches with a strong emphasis on stability, structure, and software quality.
+Reliable test solutions designed with clarity, resilience, and long-term maintainability.
 
-### Automation
-Building logic-driven solutions that reduce manual effort and improve consistency across workflows.
+### Automation Systems
+Structured frameworks and workflows that reduce manual effort and improve consistency.
 
-### Data Analytics
-Transforming raw data into useful insight through dashboards, modeling, and analytical thinking.
+### Data Intelligence
+Dashboards, models, and insights that transform raw information into business value.
 
-### Intelligent Systems
-Exploring practical AI-assisted solutions for document workflows, automation, and business process improvement.
-
----
-
-## Current Direction
-
-- Building intelligent HR and CV automation systems  
-- Growing in QA automation and engineering discipline  
-- Expanding portfolio work in Power BI and business intelligence  
-- Creating premium, practical, and scalable digital solutions  
+### Intelligent Solutions
+AI-assisted and logic-driven systems for real operational problems.
 
 ---
 
-## Selected Projects
+## 𓆩 Selected Work 𓆪
 
-### QA Automation Framework
-Maintainable automation architecture built with clean structure, stable selectors, waits, and assertions.
+### **QA Automation Framework**
+A maintainable test automation structure focused on stability, clean design, smart waits, and dependable assertions.
 
-**Stack:** `Java` `Selenium` `JUnit / TestNG`
-
-### Power BI Analytics Dashboards
-Dashboards and reporting solutions focused on turning raw information into clear, decision-ready insight.
-
-**Stack:** `Power BI` `DAX` `Power Query` `Data Modeling`
-
-### Portfolio Website
-A modern web portfolio designed to present projects, certifications, and technical identity with clarity.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-### Data Projects
-Structured analytics work exploring SQL, Python, dashboards, and business-oriented data problems.
-
-**Stack:** `SQL` `Python` `Data Analysis`
+**Stack**  
+`Java` `Selenium` `JUnit` `TestNG`
 
 ---
 
-## Technical Arsenal
+### **Power BI Dashboards**
+Business-focused dashboards built to communicate insight with clarity, visual discipline, and analytical depth.
 
-**Languages**  
+**Stack**  
+`Power BI` `DAX` `Power Query` `Data Modeling`
+
+---
+
+### **Portfolio Website**
+A modern personal portfolio built to present projects, certifications, and technical value with clarity.
+
+**Stack**  
+`HTML` `CSS` `JavaScript`
+
+---
+
+### **Data Projects**
+Structured analytics work exploring SQL, Python, reporting, and decision-ready data solutions.
+
+**Stack**  
+`SQL` `Python` `Excel` `Analytics`
+
+---
+
+## 𓆩 Technical Arsenal 𓆪
+
+### Languages
 `Python` `SQL` `JavaScript` `Java`
 
-**Testing & Quality**  
-`Selenium` `Automation Testing` `Functional Testing` `Regression Testing` `Assertions` `Test Design`
+### Testing & QA
+`Selenium` `Test Automation` `Functional Testing` `Regression Testing` `Assertions` `Quality Engineering`
 
-**Data & BI**  
-`Power BI` `DAX` `Power Query` `Excel` `Data Modeling`
+### Data & BI
+`Power BI` `DAX` `Power Query` `Data Modeling` `Excel`
 
-**Tools & Platforms**  
+### Tools & Platforms
 `Git` `GitHub` `Azure Fundamentals` `Structured JSON Workflows`
 
 ---
 
-## Philosophy
-
-> If people cannot understand a system, they will not trust it.
-
-I believe strong engineering should feel:
-- clear  
-- elegant  
-- disciplined  
-- dependable  
-
----
-
-## GitHub Stats
+## 𓆩 GitHub Presence 𓆪
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Mnqobeey&show_icons=true&hide_border=true&rank_icon=github)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mnqobeey&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnqobeey&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Mnqobeey&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mnqobeey&theme=black-ice&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnqobeey&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=FFFFFF)
 
 </div>
 
 ---
 
-## Connect
+## 𓆩 Current Direction 𓆪
 
-- **Location:** South Africa  
-- **GitHub:** [github.com/Mnqobeey](https://github.com/Mnqobeey)
+- Building intelligent HR and CV automation systems
+- Expanding strong QA automation capability
+- Growing in business intelligence and analytics
+- Creating systems that combine clarity, practicality, and high-value execution
+
+---
+
+## 𓆩 Connect 𓆪
+
+**Location**  
+South Africa
+
+**GitHub**  
+[github.com/Mnqobeey](https://github.com/Mnqobeey)
 
 ---
 
 <div align="center">
 
-**Precision. Structure. Quality.**
+### **Precision. Elegance. Execution.**
 
 </div>

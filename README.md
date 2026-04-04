@@ -34,160 +34,166 @@
 
 <br/>
 
-## ⬛ &nbsp; STANDARD
+<h2 align="center">⚡ Standard & Philosophy</h2>
 
-Software engineer focused on **automation**, **analytics**, and **quality systems**.
+<p align="center">
+  Software engineer focused on <b>automation</b>, <b>analytics</b>, and <b>quality systems</b>.<br/>
+  I build solutions that are <b>clear, dependable, and easy to trust</b>.
+</p>
 
-I build solutions that are **clear, dependable, and easy to trust**.
+<br/>
 
-> *If they can't understand it, they won't trust it.*
+<p align="center">
+  <i>"If they can't understand it, they won't trust it."</i>
+</p>
 
 <br/>
 
 ---
 
 <br/>
-## ⬛ &nbsp; TECHNICAL ARSENAL
+
+<h2 align="center">⬛ Technical Arsenal</h2>
 
 <br/>
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-      <br><sub><b>Python</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <br><br><b>Python</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-      <br><sub><b>Java</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+      <br><br><b>Java</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+      <br><br><b>JavaScript</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="SQL" />
-      <br><sub><b>SQL</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL" />
+      <br><br><b>SQL</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
-      <br><sub><b>C#</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+      <br><br><b>C#</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### Testing & QA
+### 🧪 Testing & Quality Assurance
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42" height="42" alt="Selenium" />
-      <br><sub><b>Selenium</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" />
+      <br><br><b>Selenium</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="42" height="42" alt="JUnit" />
-      <br><sub><b>JUnit</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45" height="45" alt="JUnit" />
+      <br><br><b>JUnit</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/testinglibrary/D4AF37" width="42" height="42" alt="TestNG" />
-      <br><sub><b>TestNG</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/testinglibrary/D4AF37" width="45" height="45" alt="TestNG" />
+      <br><br><b>TestNG</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" height="42" alt="Jira" />
-      <br><sub><b>Jira</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" height="45" alt="Jira" />
+      <br><br><b>Jira</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/checked--v1.png" width="42" height="42" alt="QMetry" />
-      <br><sub><b>QMetry</b></sub>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/checked--v1.png" width="45" height="45" alt="QMetry" />
+      <br><br><b>QMetry</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### Data & Analytics
+### 📊 Data & Analytics
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="42" height="42" alt="Power BI" />
-      <br><sub><b>Power BI</b></sub>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI" />
+      <br><br><b>Power BI</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server" />
-      <br><sub><b>SQL Server</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server" />
+      <br><br><b>SQL Server</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/ms-excel.png" width="42" height="42" alt="Excel" />
-      <br><sub><b>Excel</b></sub>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/ms-excel.png" width="45" height="45" alt="Excel" />
+      <br><br><b>Excel</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/formula-fx.png" width="42" height="42" alt="DAX" />
-      <br><sub><b>DAX</b></sub>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/formula-fx.png" width="45" height="45" alt="DAX" />
+      <br><br><b>DAX</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/database.png" width="42" height="42" alt="Power Query" />
-      <br><sub><b>Power Query</b></sub>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/48/database.png" width="45" height="45" alt="Power Query" />
+      <br><br><b>Power Query</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="42" height="42" alt="Data Modelling" />
-      <br><sub><b>Data Modelling</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="45" height="45" alt="Data Modelling" />
+      <br><br><b>Data Modeler</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### Web & Development
+### 🌐 Web & Development
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-      <br><sub><b>HTML5</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+      <br><br><b>HTML5</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-      <br><sub><b>CSS3</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+      <br><br><b>CSS3</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt="ASP.NET" />
-      <br><sub><b>ASP.NET</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt="ASP.NET" />
+      <br><br><b>ASP.NET</b>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-      <br><sub><b>Git</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br><br><b>Git</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-      <br><sub><b>GitHub</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+      <br><br><b>GitHub</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Azure" />
-      <br><sub><b>Azure</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
+      <br><br><b>Azure</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+      <br><br><b>VS Code</b>
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" height="42" alt="IntelliJ IDEA" />
-      <br><sub><b>IntelliJ</b></sub>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA" />
+      <br><br><b>IntelliJ</b>
     </td>
   </tr>
 </table>
@@ -195,15 +201,16 @@ I build solutions that are **clear, dependable, and easy to trust**.
 </div>
 
 <br/>
+
 ---
 
 <br/>
 
-## ⬛ &nbsp; SELECTED WORK
+<h2 align="center">📂 Selected Work</h2>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -220,7 +227,7 @@ Reusable automation built for stable execution, clearer debugging, and maintaina
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey/Automation">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
 </a>
 
 </td>
@@ -239,7 +246,7 @@ Analytics work across SQL, Python, and Power BI with a focus on clarity, structu
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
 </a>
 
 </td>
@@ -261,7 +268,7 @@ A clean frontend presence designed to present work, credentials, and contact wit
 <br/><br/>
 
 <a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW%20LIVE-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20LIVE-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
 </a>
 
 </td>
@@ -280,7 +287,7 @@ A student feedback system shaped from data structure through to dashboard-ready 
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
 </a>
 
 </td>
@@ -293,28 +300,36 @@ A student feedback system shaped from data structure through to dashboard-ready 
 
 <br/>
 
-## ⬛ &nbsp; CURRENT DIRECTION
+<h2 align="center">🧭 Current Direction</h2>
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
+### 📈
 **Business Intelligence**
 
+<br/>
 Power BI, DAX, and cleaner data storytelling for more usable reporting.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
+### ⚙️
 **QA Engineering**
 
+<br/>
 Framework structure, test stability, and stronger coverage depth.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
+### 🤖
 **Intelligent Automation**
 
+<br/>
 Workflow systems and recruitment automation built for clarity and scale.
 
 </td>
@@ -324,8 +339,6 @@ Workflow systems and recruitment automation built for clarity and scale.
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 

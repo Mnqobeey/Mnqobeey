@@ -1,166 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:132f4f,100:58E6D9&height=160&section=header" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0b1f3a,100:58E6D9&height=190&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=38&fontColor=EAFBFF&fontAlignY=38&desc=DATA%20AUTOMATION%20ANALYTICS&descSize=16&descAlignY=58&descColor=7DD3FC&animation=fadeIn" />
 
-# Thandokuhle Mntambo
+<br/>
 
-### Data Analyst · QA Automation Engineer · Intelligent Systems Builder
+<h3>Data Analyst · QA Automation Engineer · Intelligent Systems Builder</h3>
 
-Designing reporting, automation, and quality systems that are clear, reliable, and trusted.
+<p>
+Built for clarity, reliability, and clean execution.
+</p>
 
-[Portfolio](https://mnqobeey.netlify.app/) · [Email](mailto:mnqobimntambo@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+<p>
+  <a href="https://mnqobeey.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-081120?style=for-the-badge&logo=googlechrome&logoColor=58E6D9" />
+  </a>
+  &nbsp;
+  <a href="mailto:mnqobimntambo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-081120?style=for-the-badge&logo=gmail&logoColor=58E6D9" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mnqobeey">
+    <img src="https://img.shields.io/badge/GitHub-081120?style=for-the-badge&logo=github&logoColor=58E6D9" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About
+## ⬢ STANDARD
 
-I'm a software engineer based in **Johannesburg, South Africa**, working at the intersection of **data analytics**, **QA automation**, and **intelligent systems**.
+Software engineer focused on **data**, **automation**, and **quality systems**.
 
-My work is built around a simple idea: systems should not only function well, they should be easy to understand and easy to trust.
+I build solutions that are:
+- clear
+- dependable
+- structured
+- easy to trust
 
-I focus on building:
-- reporting that turns raw data into decision-ready insight
-- automation that reduces friction and improves consistency
-- workflow and quality systems that remain dependable under real scrutiny
-
-### What I do best
-- Build **SQL** and **Power BI** reporting that helps teams make faster, better decisions
-- Design and test workflows using both **manual** and **automated** quality practices
-- Create structured solutions that improve clarity, reduce risk, and scale with confidence
-
-> *If people cannot understand a system, they will struggle to trust it.*
+> *If they can't understand it, they won't trust it.*
 
 ---
 
-## Selected Work
+## ⬢ TECHNICAL ARSENAL
 
-### Takealot Web Automation
-**End-to-end UI test automation**
+### Languages
+![Python](https://img.shields.io/badge/Python-081120?style=for-the-badge&logo=python&logoColor=58E6D9)
+![Java](https://img.shields.io/badge/Java-081120?style=for-the-badge&logo=openjdk&logoColor=58E6D9)
+![JavaScript](https://img.shields.io/badge/JavaScript-081120?style=for-the-badge&logo=javascript&logoColor=58E6D9)
+![SQL](https://img.shields.io/badge/SQL-081120?style=for-the-badge&logo=postgresql&logoColor=58E6D9)
+![C%23](https://img.shields.io/badge/C%23-081120?style=for-the-badge&logo=csharp&logoColor=58E6D9)
 
-Built automated coverage for core user journeys including search, browse, and cart flows. Focused on reusable patterns, better test stability, and clearer debugging through logs and screenshots.
-
-**Stack:** Selenium WebDriver, Java, IntelliJ IDEA  
-[View Project](https://github.com/Mnqobeey/Automation)
-
----
-
-### Data & Analytics Projects
-**Structured analytics from raw data to decisions**
-
-Worked across SQL, Python, Power BI, and Excel to clean data, shape reporting logic, and produce outputs that are useful, readable, and actionable.
-
-**Stack:** SQL, Python, Power BI, Excel  
-[View Projects](https://github.com/Mnqobeey)
-
----
-
-### NexusEd
-**Student feedback system**
-
-Took the project from requirements to dashboard-ready insight by shaping business needs, thinking through structure, and designing reporting that made feedback trends easier to understand.
-
-**Stack:** ASP.NET, SQL, Dashboards  
-[View Project](https://github.com/Mnqobeey)
-
----
-
-### Portfolio Website
-**Personal brand and showcase**
-
-Designed and built a clean digital presence to present projects, certifications, and technical focus areas in one place with a clear and intentional structure.
-
-**Stack:** HTML5, CSS3, JavaScript  
-[View Live](https://mnqobeey.netlify.app/)
-
----
-
-## Core Capabilities
+### Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-081120?style=for-the-badge&logo=selenium&logoColor=58E6D9)
+![JUnit](https://img.shields.io/badge/JUnit-081120?style=for-the-badge&logo=junit5&logoColor=58E6D9)
+![TestNG](https://img.shields.io/badge/TestNG-081120?style=for-the-badge&logo=testinglibrary&logoColor=58E6D9)
+![Jira](https://img.shields.io/badge/Jira-081120?style=for-the-badge&logo=jira&logoColor=58E6D9)
+![QMetry](https://img.shields.io/badge/QMetry-081120?style=for-the-badge&logo=testinglibrary&logoColor=58E6D9)
 
 ### Data & Analytics
-- SQL
-- Power BI
-- Excel
-- DAX
-- Data Modelling
-- Reporting Design
-- Data Cleaning
-- Dashboard Development
+![Power BI](https://img.shields.io/badge/Power%20BI-081120?style=for-the-badge&logo=powerbi&logoColor=58E6D9)
+![Excel](https://img.shields.io/badge/Excel-081120?style=for-the-badge&logo=microsoftexcel&logoColor=58E6D9)
+![DAX](https://img.shields.io/badge/DAX-081120?style=for-the-badge&logo=databricks&logoColor=58E6D9)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-081120?style=for-the-badge&logo=databricks&logoColor=58E6D9)
+![Power Query](https://img.shields.io/badge/Power%20Query-081120?style=for-the-badge&logo=microsoft&logoColor=58E6D9)
 
-### Automation & QA
-- Selenium WebDriver
-- UFT One
-- Jira
-- QMetry
-- JUnit
-- TestNG
-- Workflow Validation
-- Test Coverage Design
-
-### Engineering
-- Python
-- Java
-- C#
-- JavaScript
-- ASP.NET
-- HTML5
-- CSS3
+### Web & Development
+![HTML5](https://img.shields.io/badge/HTML5-081120?style=for-the-badge&logo=html5&logoColor=58E6D9)
+![CSS3](https://img.shields.io/badge/CSS3-081120?style=for-the-badge&logo=css3&logoColor=58E6D9)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-081120?style=for-the-badge&logo=dotnet&logoColor=58E6D9)
 
 ### Tools & Platforms
-- Git
-- GitHub
-- Azure
-- VS Code
-- IntelliJ IDEA
+![Git](https://img.shields.io/badge/Git-081120?style=for-the-badge&logo=git&logoColor=58E6D9)
+![GitHub](https://img.shields.io/badge/GitHub-081120?style=for-the-badge&logo=github&logoColor=58E6D9)
+![Azure](https://img.shields.io/badge/Azure-081120?style=for-the-badge&logo=microsoftazure&logoColor=58E6D9)
+![VS Code](https://img.shields.io/badge/VS%20Code-081120?style=for-the-badge&logo=visualstudiocode&logoColor=58E6D9)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-081120?style=for-the-badge&logo=intellijidea&logoColor=58E6D9)
 
 ---
 
-## Current Focus
+## ⬢ SELECTED WORK
 
-I'm currently growing deeper in the following areas:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Advanced Power BI and DAX** for clearer, more effective business reporting
-- **QA framework design** with stronger structure, reuse, and test coverage
-- **Intelligent workflow automation** for HR and recruitment systems
-- **Usable technical design** that prioritizes clarity, trust, and long-term maintainability
+### 🧪 QA Automation
+Stable UI automation, reusable structure, cleaner execution.
+
+<br/>
+
+<a href="https://github.com/Mnqobeey/Automation">
+  <img src="https://img.shields.io/badge/View%20Project-081120?style=for-the-badge&logo=github&logoColor=58E6D9" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+SQL, Python, Power BI, and reporting-focused work.
+
+<br/>
+
+<a href="https://github.com/Mnqobeey">
+  <img src="https://img.shields.io/badge/View%20Projects-081120?style=for-the-badge&logo=github&logoColor=58E6D9" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+Personal brand, project showcase, and clean frontend design.
+
+<br/>
+
+<a href="https://mnqobeey.netlify.app/">
+  <img src="https://img.shields.io/badge/View%20Live-081120?style=for-the-badge&logo=googlechrome&logoColor=58E6D9" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 NexusEd
+Student feedback system and dashboard-driven insight.
+
+<br/>
+
+<a href="https://github.com/Mnqobeey">
+  <img src="https://img.shields.io/badge/View%20Project-081120?style=for-the-badge&logo=github&logoColor=58E6D9" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Certifications
+## ⬢ CURRENT DIRECTION
 
-- **Microsoft Azure Fundamentals** — [View Certificate](CERT_LINK_AZURE)
-- **Power BI Data Analytics** — [View Certificate](CERT_LINK_POWER_BI)
-- **Software Testing / QA Fundamentals** — [View Certificate](CERT_LINK_QA)
+```yaml
+focus:
+  - intelligent automation
+  - qa engineering
+  - business intelligence
+  - clarity-first systems
 
----
-
-## Working Style
-
-I care about output that is:
-- clear enough to be trusted
-- structured enough to scale
-- practical enough to be used
-- clean enough to hold up under scrutiny
-
-I’m especially interested in work where **analytics**, **automation**, and **system thinking** come together to solve real operational problems.
-
----
-
-## Contact
-
-I’m open to collaboration, project work, and opportunities where thoughtful technical execution matters.
-
-- **Portfolio:** [mnqobeey.netlify.app](https://mnqobeey.netlify.app/)
-- **Email:** [mnqobimntambo@gmail.com](mailto:mnqobimntambo@gmail.com)
-- **LinkedIn:** [Connect here](https://linkedin.com/in/YOUR_LINKEDIN)
-
----
-
-<div align="center">
-
-**"The best systems are not just functional — they are understood."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58E6D9,50:132f4f,100:0a0e17&height=120&section=footer" alt="footer" />
-
-</div>
+principle: "Clean systems. Clear thinking. Reliable output."

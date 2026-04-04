@@ -103,7 +103,7 @@ I build solutions that are **clear, dependable, and easy to trust**.
       <br><sub><b>Jira</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/quality.png" width="42" height="42" alt="QMetry" />
+      <img src="https://img.icons8.com/color/48/checked--v1.png" width="42" height="42" alt="QMetry" />
       <br><sub><b>QMetry</b></sub>
     </td>
   </tr>
@@ -132,7 +132,7 @@ I build solutions that are **clear, dependable, and easy to trust**.
       <br><sub><b>DAX</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/data-migration.png" width="42" height="42" alt="Power Query" />
+      <img src="https://img.icons8.com/color/48/database.png" width="42" height="42" alt="Power Query" />
       <br><sub><b>Power Query</b></sub>
     </td>
     <td align="center" width="110">

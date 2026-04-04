@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=56&descColor=999999&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0a0a0a,100:1a1a1a&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=56&descColor=999999&animation=fadeIn" />
 
 <br/>
 
@@ -136,8 +136,8 @@
       <br><br><b>Power Query</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="45" height="45" alt="Data Modelling" />
-      <br><br><b>Data Modeler</b>
+      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="45" height="45" alt="Data Modeling" />
+      <br><br><b>Data Modeling</b>
     </td>
   </tr>
 </table>
@@ -210,8 +210,9 @@
 
 ### 🧪 &nbsp; QA Automation
 
-> **Resilient UI test architecture**
-> <br/>Reusable automation built for stable execution, clearer debugging, and maintainable growth.
+**Resilient UI test architecture**
+
+Reusable automation built for stable execution, clearer debugging, and maintainable growth.
 
 <br/>
 
@@ -228,8 +229,9 @@
 
 ### 📊 &nbsp; Data & Analytics
 
-> **Reporting systems and decision-ready output**
-> <br/>Analytics work across SQL, Python, and Power BI with a focus on clarity, structure, and reporting value.
+**Reporting systems and decision-ready output**
+
+Analytics work across SQL, Python, and Power BI with a focus on clarity, structure, and reporting value.
 
 <br/>
 
@@ -249,8 +251,9 @@
 
 ### 🌐 &nbsp; Portfolio Website
 
-> **Minimal brand and showcase layer**
-> <br/>A clean frontend presence designed to present work, credentials, and contact with more structure and less noise.
+**Minimal brand and showcase layer**
+
+A clean frontend presence designed to present work, credentials, and contact with more structure and less noise.
 
 <br/>
 
@@ -267,8 +270,9 @@
 
 ### 🎓 &nbsp; NexusEd
 
-> **Feedback analytics from model to dashboard**
-> <br/>A student feedback system shaped from data structure through to dashboard-ready insight.
+**Feedback analytics from model to dashboard**
+
+A student feedback system shaped from data structure through to dashboard-ready insight.
 
 <br/>
 

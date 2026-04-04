@@ -103,7 +103,7 @@ I build solutions that are **clear, dependable, and easy to trust**.
       <br><sub><b>Jira</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qmetry/qmetry-original.svg" width="42" height="42" alt="QMetry" />
+      <img src="https://img.icons8.com/color/48/quality.png" width="42" height="42" alt="QMetry" />
       <br><sub><b>QMetry</b></sub>
     </td>
   </tr>
@@ -116,7 +116,7 @@ I build solutions that are **clear, dependable, and easy to trust**.
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="42" height="42" alt="Power BI" />
+      <img src="https://img.icons8.com/color/48/power-bi.png" width="42" height="42" alt="Power BI" />
       <br><sub><b>Power BI</b></sub>
     </td>
     <td align="center" width="110">
@@ -124,15 +124,15 @@ I build solutions that are **clear, dependable, and easy to trust**.
       <br><sub><b>SQL Server</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoftexcel/D4AF37" width="42" height="42" alt="Excel" />
+      <img src="https://img.icons8.com/color/48/ms-excel.png" width="42" height="42" alt="Excel" />
       <br><sub><b>Excel</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="42" height="42" alt="DAX" />
+      <img src="https://img.icons8.com/color/48/formula-fx.png" width="42" height="42" alt="DAX" />
       <br><sub><b>DAX</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/microsoft/D4AF37" width="42" height="42" alt="Power Query" />
+      <img src="https://img.icons8.com/color/48/data-migration.png" width="42" height="42" alt="Power Query" />
       <br><sub><b>Power Query</b></sub>
     </td>
     <td align="center" width="110">

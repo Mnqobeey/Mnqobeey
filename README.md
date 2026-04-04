@@ -36,11 +36,7 @@
 
 Software engineer focused on **automation**, **analytics**, and **quality systems**.
 
-I build solutions that are:
-- clear
-- dependable
-- structured
-- easy to trust
+I build systems that are **clear, dependable, structured, and easy to trust**.
 
 > *If they can't understand it, they won't trust it.*
 

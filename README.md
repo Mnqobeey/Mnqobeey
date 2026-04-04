@@ -152,7 +152,7 @@ focus:
   - business intelligence
   - clarity-first systems
 
-principle: "Precision over noise. Trust through execution."
+principle: "Precision over noise. Trust through execution." ```
 
 ---
 

@@ -46,52 +46,148 @@ I build solutions that are clear, dependable, and easy to trust.
 
 <br/>
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=D4AF37)
+<h4>Languages</h4>
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/python/D4AF37" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openjdk/D4AF37" width="48" height="48" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/D4AF37" width="48" height="48" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/postgresql/D4AF37" width="48" height="48" alt="SQL" />
+      <br><sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/csharp/D4AF37" width="48" height="48" alt="C#" />
+      <br><sub><b>C#</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Testing & QA**
+<br>
 
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=D4AF37)
-![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=D4AF37)
-![TestNG](https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testinglibrary&logoColor=D4AF37)
-![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=D4AF37)
-![QMetry](https://img.shields.io/badge/QMetry-000000?style=for-the-badge&logo=qase&logoColor=D4AF37)
+<h4>Testing & QA</h4>
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/selenium/D4AF37" width="48" height="48" alt="Selenium" />
+      <br><sub><b>Selenium</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/junit5/D4AF37" width="48" height="48" alt="JUnit" />
+      <br><sub><b>JUnit</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/testinglibrary/D4AF37" width="48" height="48" alt="TestNG" />
+      <br><sub><b>TestNG</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/jira/D4AF37" width="48" height="48" alt="Jira" />
+      <br><sub><b>Jira</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/qase/D4AF37" width="48" height="48" alt="QMetry" />
+      <br><sub><b>QMetry</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Data & Analytics**
+<br>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=D4AF37)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=D4AF37)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37)
-![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=D4AF37)
-![Power Query](https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge&logo=microsoft&logoColor=D4AF37)
-![Data Modelling](https://img.shields.io/badge/Data%20Modelling-000000?style=for-the-badge&logo=databricks&logoColor=D4AF37)
+<h4>Data & Analytics</h4>
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="48" height="48" alt="Power BI" />
+      <br><sub><b>Power BI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/D4AF37" width="48" height="48" alt="SQL Server" />
+      <br><sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/microsoftexcel/D4AF37" width="48" height="48" alt="Excel" />
+      <br><sub><b>Excel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/powerbi/D4AF37" width="48" height="48" alt="DAX" />
+      <br><sub><b>DAX</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/microsoft/D4AF37" width="48" height="48" alt="Power Query" />
+      <br><sub><b>Power Query</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/databricks/D4AF37" width="48" height="48" alt="Data Modelling" />
+      <br><sub><b>Data Modelling</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Web & Development**
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=D4AF37)
+<h4>Web & Development</h4>
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5/D4AF37" width="48" height="48" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/css3/D4AF37" width="48" height="48" alt="CSS3" />
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/dotnet/D4AF37" width="48" height="48" alt="ASP.NET" />
+      <br><sub><b>ASP.NET</b></sub>
+    </td>
+  </tr>
+</table>
 
-**Tools & Platforms**
+<br>
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=D4AF37)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=D4AF37)
+<h4>Tools & Platforms</h4>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git/D4AF37" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github/D4AF37" width="48" height="48" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/microsoftazure/D4AF37" width="48" height="48" alt="Azure" />
+      <br><sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/visualstudiocode/D4AF37" width="48" height="48" alt="VS Code" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/intellijidea/D4AF37" width="48" height="48" alt="IntelliJ IDEA" />
+      <br><sub><b>IntelliJ</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 

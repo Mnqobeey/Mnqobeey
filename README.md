@@ -47,7 +47,6 @@ I build solutions that are **clear, dependable, and easy to trust**.
 ---
 
 <br/>
-
 ## ⬛ &nbsp; TECHNICAL ARSENAL
 
 <br/>
@@ -104,7 +103,7 @@ I build solutions that are **clear, dependable, and easy to trust**.
       <br><sub><b>Jira</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="[https://cdn.simpleicons.org/qase/D4AF37](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qmetry/qmetry-original.svg" width="42" height="42" alt="QMetry" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qmetry/qmetry-original.svg" width="42" height="42" alt="QMetry" />
       <br><sub><b>QMetry</b></sub>
     </td>
   </tr>
@@ -196,7 +195,6 @@ I build solutions that are **clear, dependable, and easy to trust**.
 </div>
 
 <br/>
-
 ---
 
 <br/>

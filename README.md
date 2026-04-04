@@ -5,26 +5,26 @@
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+trust.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=4000&pause=1500&color=D4AF37&center=true&vCenter=true&width=850&lines=Building+systems+people+can+trust.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing Philosophy" />
 </p>
 
 <br/>
 
 <p>
   <a href="https://mnqobeey.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:mnqobimntambo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Mnqobeey">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
   </a>
 </p>
 
@@ -39,12 +39,6 @@
 <p align="center">
   Software engineer focused on <b>automation</b>, <b>analytics</b>, and <b>quality systems</b>.<br/>
   I build solutions that are <b>clear, dependable, and easy to trust</b>.
-</p>
-
-<br/>
-
-<p align="center">
-  <i>"If they can't understand it, they won't trust it."</i>
 </p>
 
 <br/>
@@ -216,9 +210,8 @@
 
 ### 🧪 &nbsp; QA Automation
 
-**Resilient UI test architecture**
-
-Reusable automation built for stable execution, clearer debugging, and maintainable growth.
+> **Resilient UI test architecture**
+> <br/>Reusable automation built for stable execution, clearer debugging, and maintainable growth.
 
 <br/>
 
@@ -227,7 +220,7 @@ Reusable automation built for stable execution, clearer debugging, and maintaina
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey/Automation">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" alt="View Project"/>
 </a>
 
 </td>
@@ -235,9 +228,8 @@ Reusable automation built for stable execution, clearer debugging, and maintaina
 
 ### 📊 &nbsp; Data & Analytics
 
-**Reporting systems and decision-ready output**
-
-Analytics work across SQL, Python, and Power BI with a focus on clarity, structure, and reporting value.
+> **Reporting systems and decision-ready output**
+> <br/>Analytics work across SQL, Python, and Power BI with a focus on clarity, structure, and reporting value.
 
 <br/>
 
@@ -246,7 +238,7 @@ Analytics work across SQL, Python, and Power BI with a focus on clarity, structu
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" alt="View Projects"/>
 </a>
 
 </td>
@@ -257,9 +249,8 @@ Analytics work across SQL, Python, and Power BI with a focus on clarity, structu
 
 ### 🌐 &nbsp; Portfolio Website
 
-**Minimal brand and showcase layer**
-
-A clean frontend presence designed to present work, credentials, and contact with more structure and less noise.
+> **Minimal brand and showcase layer**
+> <br/>A clean frontend presence designed to present work, credentials, and contact with more structure and less noise.
 
 <br/>
 
@@ -268,7 +259,7 @@ A clean frontend presence designed to present work, credentials, and contact wit
 <br/><br/>
 
 <a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW%20LIVE-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20LIVE-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="View Live"/>
 </a>
 
 </td>
@@ -276,9 +267,8 @@ A clean frontend presence designed to present work, credentials, and contact wit
 
 ### 🎓 &nbsp; NexusEd
 
-**Feedback analytics from model to dashboard**
-
-A student feedback system shaped from data structure through to dashboard-ready insight.
+> **Feedback analytics from model to dashboard**
+> <br/>A student feedback system shaped from data structure through to dashboard-ready insight.
 
 <br/>
 
@@ -287,7 +277,7 @@ A student feedback system shaped from data structure through to dashboard-ready 
 <br/><br/>
 
 <a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-1a1a1a?style=for-the-badge&logo=github&logoColor=D4AF37" alt="View Project"/>
 </a>
 
 </td>
@@ -308,28 +298,28 @@ A student feedback system shaped from data structure through to dashboard-ready 
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 📈
-**Business Intelligence**
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="48" height="48" alt="BI"/>
 
-<br/>
+### Business Intelligence
+
 Power BI, DAX, and cleaner data storytelling for more usable reporting.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### ⚙️
-**QA Engineering**
+<img src="https://img.icons8.com/color/48/test-tube.png" width="48" height="48" alt="QA"/>
 
-<br/>
+### QA Engineering
+
 Framework structure, test stability, and stronger coverage depth.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🤖
-**Intelligent Automation**
+<img src="https://img.icons8.com/color/48/bot.png" width="48" height="48" alt="Automation"/>
 
-<br/>
+### Intelligent Automation
+
 Workflow systems and recruitment automation built for clarity and scale.
 
 </td>

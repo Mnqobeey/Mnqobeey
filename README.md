@@ -336,6 +336,6 @@ Workflow systems and recruitment automation built for clarity and scale.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=120&section=footer&text=PRECISION%20%7C%20STRUCTURE%20%7C%20EXECUTION&fontSize=20&fontColor=D4AF37&fontAlignY=72&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=120&section=footer&text=PRECISION%20%E2%80%A2%20STRUCTURE%20%E2%80%A2%20EXECUTION&fontSize=20&fontColor=D4AF37&fontAlignY=72&animation=fadeIn" />
 
 </div>

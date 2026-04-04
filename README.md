@@ -152,15 +152,35 @@ focus:
   - business intelligence
   - clarity-first systems
 
-principle: "Precision over noise. Trust through execution." ```
+principle: "Precision over noise. Trust through execution."
+```
 
 ---
 
 ## ⬛ CONNECT
-<div align="center"> <a href="https://mnqobeey.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /> </a> &nbsp; <a href="mailto:mnqobimntambo@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" /> </a> &nbsp; <a href="https://github.com/Mnqobeey"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" /> </a> &nbsp; <a href="https://www.linkedin.com/in/thandokuhle-mntambo/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /> </a>
+
+<div align="center">
+
+<a href="https://mnqobeey.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
+</a>
+&nbsp;
+<a href="mailto:mnqobimntambo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+</a>
+&nbsp;
+<a href="https://github.com/Mnqobeey">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" />
+</a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:000000&height=120&section=footer&animation=fadeIn" />
-PRECISION · STRUCTURE · EXECUTION
-</div> ```
+
+### `PRECISION` · `STRUCTURE` · `EXECUTION`
+
+</div>

@@ -1,37 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:1a1a1a&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=58&descColor=888888&animation=fadeIn" />
-
-<br/>
-
-**Software engineer focused on automation, analytics, and quality systems.**
-
-<br/>
-
-<a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="mailto:mnqobimntambo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4AF37" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/thandokuhle-mntambo/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4AF37" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/><div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:0a0a0a,100:1a1a1a&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=56&descColor=999999&animation=fadeIn" />
 
 <br/>

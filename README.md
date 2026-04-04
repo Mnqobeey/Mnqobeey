@@ -54,16 +54,16 @@ I build systems that are **clear, dependable, structured, and easy to trust**.
 ### Testing & QA
 ![Selenium](https://img.shields.io/badge/Selenium-0D0D0D?style=for-the-badge&logo=selenium&logoColor=D4AF37)
 ![JUnit](https://img.shields.io/badge/JUnit-0D0D0D?style=for-the-badge&logo=junit5&logoColor=D4AF37)
-![TestNG](https://img.shields.io/badge/TestNG-0D0D0D?style=for-the-badge&logo=testinglibrary&logoColor=D4AF37)
+![TestNG](https://img.shields.io/badge/TestNG-0D0D0D?style=for-the-badge&logo=testing-library&logoColor=D4AF37)
 ![Jira](https://img.shields.io/badge/Jira-0D0D0D?style=for-the-badge&logo=jira&logoColor=D4AF37)
-![QMetry](https://img.shields.io/badge/QMetry-0D0D0D?style=for-the-badge&logo=testinglibrary&logoColor=D4AF37)
+![QMetry](https://img.shields.io/badge/QMetry-0D0D0D?style=for-the-badge&logoColor=D4AF37)
 
 ### Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=D4AF37)
 ![Excel](https://img.shields.io/badge/Excel-0D0D0D?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37)
-![DAX](https://img.shields.io/badge/DAX-0D0D0D?style=for-the-badge&logo=databricks&logoColor=D4AF37)
-![Data%20Modeling](https://img.shields.io/badge/Data%20Modeling-0D0D0D?style=for-the-badge&logo=databricks&logoColor=D4AF37)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-0D0D0D?style=for-the-badge&logo=microsoft&logoColor=D4AF37)
+![DAX](https://img.shields.io/badge/DAX-0D0D0D?style=for-the-badge&logoColor=D4AF37)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0D0D0D?style=for-the-badge&logoColor=D4AF37)
+![Power Query](https://img.shields.io/badge/Power%20Query-0D0D0D?style=for-the-badge&logo=microsoft&logoColor=D4AF37)
 
 ### Web & Development
 ![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=D4AF37)
@@ -74,8 +74,8 @@ I build systems that are **clear, dependable, structured, and easy to trust**.
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37)
 ![Azure](https://img.shields.io/badge/Azure-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=D4AF37)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
-![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ-0D0D0D?style=for-the-badge&logo=intellijidea&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-0D0D0D?style=for-the-badge&logo=intellijidea&logoColor=D4AF37)
 
 ---
 
@@ -87,7 +87,7 @@ I build systems that are **clear, dependable, structured, and easy to trust**.
 
 ### 🧪 QA Automation
 
-Stable UI automation, reusable structure, cleaner execution.
+Stable UI automation and reusable test structure.
 
 <br/>
 
@@ -116,7 +116,7 @@ SQL, Python, Power BI, and reporting-focused work.
 
 ### 🌐 Portfolio Website
 
-Personal brand, project showcase, and frontend design.
+Personal brand, showcase, and frontend design.
 
 <br/>
 
@@ -153,3 +153,10 @@ focus:
   - clarity-first systems
 
 principle: "Precision over noise. Trust through execution."
+⬛ CONNECT
+<div align="center"> <a href="https://mnqobeey.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /> </a> &nbsp; <a href="mailto:mnqobimntambo@gmail.com"> <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /> </a> &nbsp; <a href="https://github.com/Mnqobeey"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" /> </a> &nbsp; <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /> </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
+PRECISION · STRUCTURE · EXECUTION

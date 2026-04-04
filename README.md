@@ -154,5 +154,11 @@ focus:
 
 principle: "Precision over noise. Trust through execution."
 
+⬛ CONNECT
+<div align="center"> <a href="https://mnqobeey.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" /> </a> &nbsp; <a href="mailto:mnqobimntambo@gmail.com"> <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /> </a> &nbsp; <a href="https://github.com/Mnqobeey"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37" /> </a> &nbsp; <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /> </a>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:0a0a0a&height=120&section=footer&animation=fadeIn" />
 PRECISION · STRUCTURE · EXECUTION
+</div> ```

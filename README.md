@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=QA%20Automation%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Intelligent%20Systems&descSize=16&descAlignY=58&descColor=AAAAAA&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=200&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%E2%80%A2%20Automation%20%E2%80%A2%20Analytics&descSize=16&descAlignY=58&descColor=AAAAAA&animation=fadeIn" />
 
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Precision.+Structure.+Quality.;Building+systems+people+can+trust.;Luxury+in+execution.+Power+in+simplicity.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+trust.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
 </p>
 
 <br/>

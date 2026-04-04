@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Precision.+Structure.+Quality.;Building+systems+people+can+trust.;Luxury+in+execution.+Power+in+simplicity.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+understand+and+trust.;Clarity+first.+Always." alt="Typing SVG" />
 </p>
 
 <br/>
@@ -24,26 +24,20 @@
 
 <br/>
 
-## ⬛ &nbsp; THE STANDARD
+## About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
-I am **Thandokuhle Mntambo** — a Software Engineer operating at the intersection of **Quality Engineering**, **Data Intelligence**, and **Automation Systems**.
+Hi, I'm **Thandokuhle Mntambo** — a software engineer based in **South Africa**, working across **QA Automation**, **Data Analytics**, and **Intelligent Systems**.
 
-My work is guided by a single standard:
+I care about building things that actually make sense — not just to machines, but to the people who rely on them. Whether it's a test framework, a dashboard, or an automated workflow, I want the person on the other end to feel confident in what they're looking at.
 
-> *Systems should not only function — they should inspire confidence.*
-
-I build with precision. I think in structure. I deliver with intent.
-
-Every framework I design, every dashboard I build, every system I ship is built to be **clear, reliable, and trustworthy** — not just functional.
-
-📍 &nbsp; **South Africa**
+I'm still growing, still building, still sharpening my craft. But the foundation is clear: I build with care, I think in structure, and I take pride in work that holds up under real scrutiny.
 
 </td>
-<td width="45%" align="center">
+<td width="42%" align="center">
 
 ```
 ┌─────────────────────────────┐
@@ -52,8 +46,8 @@ Every framework I design, every dashboard I build, every system I ship is built 
 │   ─────────────────         │
 │   ✦  QA Automation          │
 │   ✦  Data Analytics         │
-│   ✦  Intelligent Systems    │
 │   ✦  Business Intelligence  │
+│   ✦  Intelligent Systems    │
 │   ✦  Clean Architecture     │
 │                             │
 └─────────────────────────────┘
@@ -69,7 +63,21 @@ Every framework I design, every dashboard I build, every system I ship is built 
 
 <br/>
 
-## ⬛ &nbsp; TECHNICAL ARSENAL
+## How I Think About Work
+
+I've learned that the best systems aren't just technically correct — they're legible. Someone should be able to look at what you've built and understand *why* it works, not just *that* it works.
+
+That's the thread running through everything I do: **clarity as a form of quality**. Clean test architecture. Dashboards that tell a real story. Automation that removes friction instead of creating new confusion.
+
+I don't chase complexity for its own sake. I'd rather ship something thoughtfully structured than something impressively complicated.
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Stack
 
 <br/>
 
@@ -121,7 +129,7 @@ Every framework I design, every dashboard I build, every system I ship is built 
 
 <br/>
 
-## ⬛ &nbsp; SELECTED WORK
+## Selected Work
 
 <br/>
 
@@ -131,16 +139,9 @@ Every framework I design, every dashboard I build, every system I ship is built 
 
 ### 🧪 &nbsp; QA Automation Framework
 
-A production-grade test automation structure built for long-term maintainability — featuring smart waits, stable selectors, and clean assertions.
+A structured test automation framework designed for long-term maintainability — built around the Page Object Model with smart waits, stable selectors, and clean assertion patterns. The goal was to create something a team could pick up and trust immediately.
 
-**Stack**
-
-`Java` &nbsp; `Selenium` &nbsp; `JUnit` &nbsp; `TestNG`
-
-**Highlights**
-- Page Object Model architecture
-- Resilient element selection strategy
-- Structured assertion design
+**Stack:** &nbsp; `Java` &nbsp; `Selenium` &nbsp; `JUnit` &nbsp; `TestNG`
 
 <br/>
 
@@ -151,16 +152,9 @@ A production-grade test automation structure built for long-term maintainability
 
 ### 📊 &nbsp; Power BI Analytics Dashboards
 
-Business intelligence dashboards engineered to turn raw operational data into decision-ready visual insight.
+Business intelligence dashboards that transform raw operational data into something decision-makers can actually use — with DAX-driven KPIs, clean data models, and layouts designed for executive-level clarity.
 
-**Stack**
-
-`Power BI` &nbsp; `DAX` &nbsp; `Power Query` &nbsp; `Data Modeling`
-
-**Highlights**
-- Dynamic data modeling
-- DAX-driven KPI calculations
-- Executive-ready visual design
+**Stack:** &nbsp; `Power BI` &nbsp; `DAX` &nbsp; `Power Query` &nbsp; `Data Modeling`
 
 <br/>
 
@@ -174,16 +168,9 @@ Business intelligence dashboards engineered to turn raw operational data into de
 
 ### 🌐 &nbsp; Portfolio Website
 
-A modern developer portfolio built to communicate professional value with clarity, precision, and clean frontend execution.
+A clean, responsive developer portfolio built to communicate who I am and what I do — simply and well. Projects, certifications, and contact info, all in one place without unnecessary noise.
 
-**Stack**
-
-`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
-
-**Highlights**
-- Clean component structure
-- Mobile-responsive layout
-- Projects + certifications showcase
+**Stack:** &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 
 <br/>
 
@@ -194,16 +181,9 @@ A modern developer portfolio built to communicate professional value with clarit
 
 ### 🗄️ &nbsp; Data & Analytics Projects
 
-Structured analytics work spanning SQL queries, Python data pipelines, and reporting solutions designed for clarity and actionable output.
+A collection of SQL queries, Python data pipelines, and reporting solutions — each one focused on turning messy data into something structured, clean, and genuinely useful for decision-making.
 
-**Stack**
-
-`SQL` &nbsp; `Python` &nbsp; `Excel` &nbsp; `Analytics`
-
-**Highlights**
-- Structured query engineering
-- Data cleaning pipelines
-- Decision-ready reporting
+**Stack:** &nbsp; `SQL` &nbsp; `Python` &nbsp; `Excel` &nbsp; `Analytics`
 
 <br/>
 
@@ -219,7 +199,22 @@ Structured analytics work spanning SQL queries, Python data pipelines, and repor
 
 <br/>
 
-## ⬛ &nbsp; GITHUB PRESENCE
+## What I'm Focused On Right Now
+
+I'm at a stage where the foundations are solid and the direction is clear. Here's where my energy is going:
+
+- **Intelligent HR & CV automation** — building systems that bring structure and efficiency to recruitment workflows
+- **Deepening QA automation** — expanding coverage, improving architecture, writing tests that actually catch what matters
+- **Growing in BI & analytics** — getting sharper with Power BI, DAX, and data storytelling that drives real decisions
+- **Bridging technical execution and usability** — making sure what I build isn't just functional, but genuinely clear to the people using it
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
 
 <br/>
 
@@ -241,31 +236,15 @@ Structured analytics work spanning SQL queries, Python data pipelines, and repor
 
 <br/>
 
-## ⬛ &nbsp; CURRENT DIRECTION
-
-<br/>
-
-```yaml
-focus_areas:
-  - Building intelligent HR and CV automation systems
-  - Expanding QA automation depth and coverage
-  - Growing in business intelligence and Power BI
-  - Designing systems that are clear, practical, and high-value
-
-philosophy: "Precision over speed. Clarity over complexity. Trust through execution."
-```
-
-<br/>
-
----
-
-<br/>
-
-## ⬛ &nbsp; CONNECT
+## Let's Connect
 
 <br/>
 
 <div align="center">
+
+I'm always open to good conversations — whether it's about collaboration, ideas, or interesting work.
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Mnqobeey)
 &nbsp;
@@ -285,6 +264,6 @@ philosophy: "Precision over speed. Clarity over complexity. Trust through execut
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:0a0a0a&height=120&section=footer&fontSize=14&fontColor=D4AF37&animation=fadeIn" />
 
-### `PRECISION` &nbsp;·&nbsp; `ELEGANCE` &nbsp;·&nbsp; `EXECUTION`
+*Clarity. Care. Craft.*
 
 </div>

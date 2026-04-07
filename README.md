@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+trust.;If+they+can't+understand+it%2C+they+won't+trust+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+systems+people+can+trust" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -14,7 +14,6 @@
   <a href="https://mnqobeey.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" />
   </a>
-  &nbsp;
   <a href="mailto:mnqobimntambo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
   </a>

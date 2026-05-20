@@ -52,7 +52,7 @@ A local UAT dashboard, tracker analyser, and evidence pack helper.
 - Detects execution status across Pass, Fail, Blocked, No Run, Deferred, and N/A.
 - Matches evidence files to test cases and supports structured reporting.
 
-[View portfolio project](https://mnqobeey.netlify.app/projects)
+[View repository](https://github.com/Mnqobeey/uatflow_intelligence)
 
 ### SauceDemo Automation Framework
 BDD automation for a complete e-commerce checkout flow.

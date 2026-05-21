@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=190&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=Data%20%7C%20Automation%20%7C%20Analytics&descSize=16&descAlignY=56&descColor=E0C44F" alt="Thandokuhle Mntambo - Data, Automation, Analytics" />
 
-### Building systems people can trust
 
 <a href="https://mnqobeey.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio" />
@@ -23,10 +22,9 @@
 
 ## About
 
-I am an Information Systems Honours graduate based in Johannesburg, focused on data, BI, QA automation, and reliable systems delivery.
+I am an Information Systems Honours graduate focused on data, BI, QA automation, and reliable systems delivery.
 
-I work across SQL, Power BI, QA operations, automation frameworks, and structured reporting. My focus is simple: turn data into decisions and testing into confidence.
-
+I work across SQL, Power BI, QA operations, automation frameworks, and structured reporting.
 ## Focus Areas
 
 | Area | What I Build |

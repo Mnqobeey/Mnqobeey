@@ -154,8 +154,6 @@ Google Data Analytics · Google Business Intelligence · Data Analysis with Pyth
 
 <br/>
 
-[View certificates →](https://mnqobeey.netlify.app/certs)
-
 </div>
 
 ---

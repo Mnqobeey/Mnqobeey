@@ -163,11 +163,6 @@ Google Data Analytics · Google Business Intelligence · Data Analysis with Pyth
 
 <div align="center">
 
-### QA × APPLIED AI × SOLUTION ENGINEERING × DATA
-
-The portfolio is the primary showcase. GitHub is the engineering evidence behind it.
-
-<br/>
 
 <a href="https://mnqobeey.netlify.app/">
   <img src="https://img.shields.io/badge/EXPLORE%20THE%20FULL%20PORTFOLIO-C9A227?style=for-the-badge&logo=vercel&logoColor=000000" alt="Explore Portfolio" />

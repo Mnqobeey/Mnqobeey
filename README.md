@@ -2,10 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,100:C9A227&height=215&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=44&fontColor=F3D36B&fontAlignY=36&desc=QA%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DATA%20%E2%80%A2%20SOLUTION%20ENGINEERING&descSize=14&descAlignY=56&descColor=E8E8E8" alt="Thandokuhle Mntambo" />
 
-### Building reliable, intelligent software for real operational environments.
 
 **Junior Solution Engineer @ PCG | MindRift**  
-BCom Honours — Information Systems & Business Management
+BCom Honours - Information Systems & Business Management
 
 <br/>
 
@@ -25,11 +24,7 @@ BCom Honours — Information Systems & Business Management
 
 ---
 
-## Portfolio Identity
-
-My portfolio and GitHub tell one story:
-
-**Quality engineering first. Applied AI where it solves a real problem. Data and BI where they improve decisions.**
+## Identity
 
 My work spans banking UAT, test automation, AI-enabled business workflows, operational reporting, dashboards, and software delivery. I focus on systems that are not only functional, but also testable, traceable, measurable, and ready for real use.
 
@@ -165,17 +160,6 @@ Google Data Analytics · Google Business Intelligence · Data Analysis with Pyth
 
 ---
 
-## Engineering Principles
-
-> **Build with intent.** Every feature should solve a clear operational problem.
-
-> **Test with evidence.** Quality should be demonstrated, not assumed.
-
-> **Use AI practically.** Intelligence should improve a workflow, decision, or user outcome.
-
-> **Keep data trustworthy.** Reporting is only useful when the underlying assumptions and controls are visible.
-
----
 
 <div align="center">
 

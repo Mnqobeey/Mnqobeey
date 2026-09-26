@@ -1,119 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=190&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=42&fontColor=D4AF37&fontAlignY=38&desc=QA%20%7C%20Applied%20AI%20%7C%20Data%20%7C%20Solution%20Engineering&descSize=15&descAlignY=56&descColor=E0C44F" alt="Thandokuhle Mntambo - QA, Applied AI, Data, Solution Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,100:C9A227&height=215&section=header&text=THANDOKUHLE%20MNTAMBO&fontSize=44&fontColor=F3D36B&fontAlignY=36&desc=QUALITY%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DATA%20%E2%80%A2%20SOLUTION%20ENGINEERING&descSize=13&descAlignY=56&descColor=E8E8E8" alt="Thandokuhle Mntambo" />
+
+### Building reliable software at the intersection of quality, intelligence, and business operations.
+
+**Junior Solution Engineer @ PCG | MindRift**  
+BCom Honours — Information Systems & Business Management
+
+<br/>
 
 <a href="https://mnqobeey.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D4AF37" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=F3D36B" alt="Portfolio" />
 </a>
-<a href="mailto:mnqobimntambo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
-</a>
-<a href="https://github.com/Mnqobeey">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub" />
-</a>
+&nbsp;
 <a href="https://za.linkedin.com/in/thandokuhle-mntambo">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F3D36B" alt="LinkedIn" />
 </a>
+&nbsp;
+<a href="mailto:mnqobimntambo@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=F3D36B" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+## Profile
+
+I design, test, and improve software systems that need to work reliably in real operational environments.
+
+My experience spans **banking UAT, quality engineering, test automation, AI-enabled workflows, data analysis, reporting, and application delivery**. I approach software from both sides of the lifecycle: understanding how a system should behave, then proving that it actually does.
+
+My strongest interests are where **QA, applied AI, solution engineering, and data** converge.
+
+---
+
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Quality Engineering
+
+UAT execution · regression testing · defect lifecycle · evidence management · release readiness · test automation · performance foundations
+
+</td>
+<td width="50%" valign="top">
+
+### Applied AI
+
+Document workflows · OCR/LLM concepts · prompt-driven applications · deterministic matching · AI-assisted operational tooling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Data & Intelligence
+
+SQL · Power BI · DAX · Excel · data modelling · operational reporting · analytics · decision-support workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Solution Engineering
+
+Web applications · APIs · role-based systems · workflow implementation · integration support · troubleshooting · delivery validation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Engineering Work
+
+### 01 — UATFlow Intelligence
+**Turning spreadsheet-based UAT into a structured QA intelligence workflow.**
+
+Analyses Excel test trackers, surfaces execution status and evidence gaps, matches evidence to test cases, and produces cleaner reporting outputs for QA teams.
+
+**Python · Streamlit · Excel · QA Analytics · Evidence Management**
+
+[Explore UATFlow Intelligence →](https://github.com/Mnqobeey/uatflow_intelligence)
+
+<br/>
+
+### 02 — SauceDemo Automation Framework
+**A maintainable end-to-end browser automation framework for critical commerce flows.**
+
+Covers login through order confirmation using reusable page objects, BDD scenarios, assertions, waits, headless execution, and Maven-based test runs.
+
+**Java · Selenium WebDriver · Cucumber · BDD · Maven**
+
+[Explore Automation Framework →](https://github.com/Mnqobeey/SauceDemo_Automation_Framework)
+
+<br/>
+
+### 03 — DocFlow AI
+**A business document workflow for controlled intake, approvals, and reporting.**
+
+Supports invoice and credit-note capture, duplicate controls, staged approvals, role-based access, and operational reporting for finance-oriented workflows.
+
+**React · Node.js · Supabase · Document Workflows · Applied AI**
+
+[Explore DocFlow AI →](https://github.com/Mnqobeey/Docflow-AI)
+
+<br/>
+
+### 04 — SceneForge 3D
+**A browser-based interactive learning environment with prompt-driven asset selection.**
+
+Combines Three.js rendering, deterministic prompt matching, an avatar-led classroom mode, and a dedicated Match Lab for validating prompt-to-asset behaviour.
+
+**JavaScript · Three.js · Vite · Prompt Matching · QA**
+
+[Explore SceneForge 3D →](https://github.com/Mnqobeey/SceneForge-3D)
+
+---
+
+## Technology Stack
+
+| Discipline | Technologies |
+| --- | --- |
+| **Quality & Automation** | Selenium WebDriver · Cucumber/BDD · UFT One · LoadRunner Professional · Manual UAT · Regression Testing |
+| **Languages** | Python · Java · JavaScript/TypeScript · C# · SQL |
+| **Web & Backend** | React · Next.js · Node.js · Express · FastAPI · Streamlit · Supabase |
+| **Data & BI** | Power BI · DAX · SQL Server · Excel · Data Modelling · ETL Fundamentals |
+| **Engineering** | Git · GitHub · Maven · REST APIs · CI-oriented test design |
+
+---
+
+## Credentials
+
+<div align="center">
+
+**Microsoft Certified: Power BI Data Analyst Associate — PL-300**  
+**Microsoft Azure Data Fundamentals — DP-900**  
+**OpenText Certified Developer — UFT One**  
+**OpenText Certified Developer — LoadRunner Professional**
+
+Google Data Analytics · Google Business Intelligence · Data Analysis with Python · Google AI Essentials
+
+[View certification portfolio →](https://mnqobeey.netlify.app/certs)
 
 </div>
 
 ---
 
-## About
+## What I Bring
 
-I am a **Junior Solution Engineer at PCG | MindRift** and a BCom Honours graduate in Information Systems and Business Management.
+> **Quality-first engineering.** I care about evidence, reproducibility, permissions, edge cases, failure states, and whether a feature is actually ready to ship.
 
-My work sits at the intersection of **software quality, applied AI, data, and business systems**. I have hands-on experience in banking UAT, defect reporting and retesting, test automation, AI-enabled application delivery, dashboards, reporting, and solution implementation.
+> **Business-aware implementation.** I translate operational requirements into workflows, validation rules, interfaces, reports, and testable acceptance behaviour.
 
-I am especially interested in building systems that are **testable, reliable, measurable, and useful in real operational environments**.
-
-## Current Focus
-
-| Area | What I Work On |
-| --- | --- |
-| QA & UAT | Test execution, evidence, defect reporting, retesting, regression coverage, release readiness, and structured QA reporting. |
-| Test Automation | Selenium WebDriver, Cucumber/BDD, Page Object Model, Maven, UFT One, and repeatable automated test flows. |
-| Applied AI | AI-assisted document workflows, prompt-driven applications, deterministic matching, OCR/LLM concepts, and practical AI product delivery. |
-| Data & BI | SQL, Power BI, Excel analysis, reporting datasets, operational dashboards, and decision-support outputs. |
-| Solution Engineering | Web application delivery, API-backed workflows, role-based systems, integration support, and implementation troubleshooting. |
-
-## Technical Toolkit
-
-- **QA & Automation:** Selenium WebDriver, Cucumber/BDD, UFT One, LoadRunner Professional, manual UAT, regression testing, defect lifecycle, test evidence
-- **Data & BI:** SQL Server, Power BI, DAX, Excel, data modelling, ETL fundamentals
-- **Programming:** Python, Java, JavaScript/TypeScript, C#, HTML/CSS
-- **Web & Application:** React, Next.js, Node.js, Express, Streamlit, FastAPI, Supabase
-- **Engineering Tools:** Git, GitHub, Maven, REST APIs, CI-oriented test structure
-- **Business Systems:** requirements validation, workflow testing, operational reporting, release readiness
-
-## Selected Projects
-
-### SauceDemo Automation Framework
-End-to-end BDD automation for the public SauceDemo e-commerce flow.
-
-- Covers login, product selection, cart validation, checkout, and confirmation.
-- Uses Java, Selenium WebDriver, Cucumber, Maven, and Page Object Model patterns.
-- Includes reusable actions, assertions, waits, headless execution, and test reporting.
-
-[View repository](https://github.com/Mnqobeey/SauceDemo_Automation_Framework)
-
-### UATFlow Intelligence
-A local QA dashboard and evidence helper for teams managing UAT in Excel.
-
-- Analyses execution status by tester, sprint, platform, and test state.
-- Highlights missing evidence and incomplete notes.
-- Matches evidence files to test case IDs and generates reporting outputs.
-
-[View repository](https://github.com/Mnqobeey/uatflow_intelligence)
-
-### DocFlow AI
-A document approval and reporting workspace for invoice and credit-note processing.
-
-- Supports document intake, duplicate checks, three-stage approvals, and role-based access.
-- Provides spend, VAT, vendor, and status reporting.
-- Demonstrates applied AI/document-workflow thinking in a business operations context.
-
-[View repository](https://github.com/Mnqobeey/Docflow-AI)
-
-### SceneForge 3D
-A browser-based 3D learning studio with prompt-driven asset matching and an interactive avatar classroom.
-
-- Built with Vite and Three.js.
-- Includes deterministic prompt-to-prop matching and a QA-focused Match Lab.
-- Combines interactive UI, 3D rendering, prompt handling, and testability.
-
-[View repository](https://github.com/Mnqobeey/SceneForge-3D)
-
-### NexusEd
-A student feedback and reporting system with role-aware workflows.
-
-- Supports student feedback capture, admin configuration, dashboards, and reporting.
-- Includes role-aware navigation and access controls.
-- Built as a structured business application with local database setup and sample data.
-
-[View repository](https://github.com/Mnqobeey/NexusEd)
-
-## Certifications
-
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
-- **Microsoft Azure Data Fundamentals (DP-900)**
-- **OpenText Certified Developer — UFT One**
-- **OpenText Certified Developer — LoadRunner Professional**
-- Google Data Analytics
-- Google Business Intelligence
-- Data Analysis with Python
-- Google AI Essentials
-
-[View certificates](https://mnqobeey.netlify.app/certs)
-
-## Career Direction
-
-I am building toward roles across **software QA/testing, applied AI/LLM solutions, solution engineering, data/BI, and business systems**, with a particular interest in opportunities where **quality engineering and AI-enabled software intersect**.
+> **Practical AI.** I am interested in AI where it improves a real process—not AI for its own sake.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:D4AF37&height=120&section=footer&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20MEASURE%20%E2%80%A2%20IMPROVE&fontSize=19&fontColor=D4AF37&fontAlignY=72&animation=fadeIn" alt="Build, Test, Measure, Improve" />
+### OPEN TO WORK AT THE INTERSECTION OF QA × AI × SOLUTION ENGINEERING × DATA
+
+Software QA · UAT · Test Automation · Applied AI · Solution Engineering · Data / BI
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111111,100:C9A227&height=125&section=footer&text=BUILD%20WITH%20INTENT.%20TEST%20WITH%20EVIDENCE.&fontSize=18&fontColor=F3D36B&fontAlignY=70" alt="Build with intent. Test with evidence." />
 
 </div>
